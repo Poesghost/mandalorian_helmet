@@ -8,10 +8,12 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 
 ## Print Volumes
 
-| Version 2            |  X, Y, Z (Prusa Mini+) | X, Y, Z (Prusa i3 MK3S+) |
-| -----------          | -----------            | -----------              |
-| STL                  | 180mm X 180mm X 180mm  | 250mm X 210mm X 210mm    |
-| rear_attachment1.stl | Yes                    | Yes |
+| Version 2                 |  X, Y, Z (Prusa Mini+) | X, Y, Z (Prusa i3 MK3S+) |
+| -----------               | -----------            | -----------              |
+| STL                       | 180mm X 180mm X 180mm  | 250mm X 210mm X 210mm    |
+| rear_attachment1.stl      | Yes                    | Yes                      |
+| side_attachment_left.stl  | Yes (maybe)            | Yes                      |
+| side_attachment_right.stl | Yes (maybe)            | Yes                      |
 
 > NOTE: Current scale is set for my head size with a circumference of about 749.3 mm _(29.5 inches)_. If you are going to scale it to your head you will need to make sure to select all the helmet parts and the hemlet itself before scaling so it performs this evenly.
 
