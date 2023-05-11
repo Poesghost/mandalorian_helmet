@@ -26,6 +26,8 @@ The model was built using [Blender](https://www.blender.org/), exported as a `.s
 
 ## Images
 
+![mandalorian_helmet1.jpg](images/mandalorian_helmet1.jpg)
+
 ## Contributing
 
 - There is a good chance if you are here you have git installed. If not please install Git [here](https://git-scm.com/).
